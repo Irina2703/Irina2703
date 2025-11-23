@@ -7,6 +7,35 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+
+💻 Personal Projects
+Note Hub – Next.js • REST API
+Developed a full-featured note-taking application with user authentication and CRUD functionality.
+
+Online Shop – HTML • CSS • JavaScript
+Built a responsive e-commerce website with product listings, cart functionality, and interactive UI.
+
+👥 Team Projects 
+
+### 🔹 Clothica Shop — *Developer*  
+**Tech:** Next.js • Node.js • REST API  
+Developed a full-featured e-commerce clothing platform with dynamic catalog, product filtering, validated forms, theme switching, and API-driven backend integration. Implemented advanced state management (Zustand, React Query), responsive UI, and rich animations.
+
+---
+
+### 🔹 A.R.I. — Learn JavaScript — *Team Lead*  
+**Tech:** Next.js • TypeScript • Tailwind CSS  
+Created an interactive JavaScript learning game with quizzes, text tasks, and live coding challenges (Monaco Editor). Added progressive levels, animations, saved progress, and detailed results for effective learning.
+
+---
+
+### 🔹 Book Shop — *Developer*  
+**Tech:** HTML • CSS • JavaScript  
+Organized and led a team to build a dynamic online bookstore. Implemented responsive design and integrated book search functionality.
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Irina2703&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Irina2703&theme=shadow_blue&hide_border=false)<br/>
