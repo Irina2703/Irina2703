@@ -37,7 +37,8 @@ Created a single-page yacht booking platform with interactive search, booking ma
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-![Germany](https://img.shields.io/badge/Polish-B1-lightgrey?style=flat-square)
+![German](https://img.shields.io/badge/German-B1-lightgrey?style=flat-square)
+
 
 Контакти
 
