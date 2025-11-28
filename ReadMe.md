@@ -2,7 +2,7 @@
 🔭 I’m currently working on:<br>My first projects and improving my basic programming skills.<br><br>👯 I’m looking to collaborate on:<br>Small learning projects where I can gain experience and grow.<br><br>🤝 I’m looking for help with:<br>Best practices and understanding more advanced concepts.<br><br>🌱 I’m currently learning:<br>Programming fundamentals, Git/GitHub, and popular beginner-friendly tools.<br><br>💬 Ask me about:<br>My learning journey and the technologies I’m exploring.<br><br>⚡ Fun fact:<br>I love learning new things and progress really fast when I'm excited about something!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-kliucherova/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kliucherovairyna@gmail.com) 
 
 # 💻 Tech Stack:
