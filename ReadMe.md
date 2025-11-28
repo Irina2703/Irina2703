@@ -10,27 +10,16 @@
 
 
 # 💻 Personal Projects
-Note Hub – Next.js • REST API
+[Note Hub – Next.js • REST API](https://09-auth-eight-kappa.vercel.app/)  
 Developed a full-featured note-taking application with user authentication and CRUD functionality.
 
-Online Shop – HTML • CSS • JavaScript
-Built a responsive e-commerce website with product listings, cart functionality, and interactive UI.
+# 👥 Team Projects 
 
- # 👥 Team Projects 
-
-### 🔹 Clothica Shop — *Developer*  
+### 🔹 [Clothica Shop — *Developer*](https://clothica-front.vercel.app/)  
 **Tech:** Next.js • Node.js • REST API  
 Developed a full-featured e-commerce clothing platform with dynamic catalog, product filtering, validated forms, theme switching, and API-driven backend integration. Implemented advanced state management (Zustand, React Query), responsive UI, and rich animations.
 
----
-
-### 🔹 A.R.I. — Learn JavaScript — *Team Lead*  
-**Tech:** Next.js • TypeScript • Tailwind CSS  
-Created an interactive JavaScript learning game with quizzes, text tasks, and live coding challenges (Monaco Editor). Added progressive levels, animations, saved progress, and detailed results for effective learning.
-
----
-
-### 🔹 Book Shop — *Developer*  
+### 🔹 [Book Shop — *Developer*](https://d-yv.github.io/project-dev1team/)  
 **Tech:** HTML • CSS • JavaScript  
 Organized and led a team to build a dynamic online bookstore. Implemented responsive design and integrated book search functionality.
 
