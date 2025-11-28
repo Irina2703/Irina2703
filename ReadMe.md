@@ -31,7 +31,19 @@ Organized and led a team to build a dynamic online bookstore. Implemented respon
 **Tech:** HTML • CSS • JavaScript
 Created a single-page yacht booking platform with interactive search, booking management, and user reviews. Implemented responsive design for both desktop and mobile devices, styled interface elements, and added basic interactivity and animations.
 
+ #  🗣️ Languages
 
+![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+![Germany](https://img.shields.io/badge/Polish-B1-lightgrey?style=flat-square)
+
+Контакти
+
+# 📫 How to reach me:  
+
+[LinkedIn](https://www.linkedin.com/in/iryna-kliucherova/) | [Email](mailto:klucerovaira@gmail.com)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Irina2703&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Irina2703&theme=shadow_blue&hide_border=false)<br/>
