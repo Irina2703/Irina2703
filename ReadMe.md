@@ -13,7 +13,7 @@
 ### 🔹 [Note Hub – Next.js](https://09-auth-eight-kappa.vercel.app/)  
 Developed a full-featured note-taking application with user authentication and CRUD functionality.
 
-### 🔹 [Company Portal — Developer](https://irina2703.github.io/goit-markup-hw-06-01/)
+### 🔹 [Company Portal ](https://irina2703.github.io/goit-markup-hw-06-01/)
 Tech: HTML • CSS
 Created a static single-page corporate portal. Implemented responsive design for different devices, clean layout of text and interface elements, and simple, user-friendly navigation.
 
