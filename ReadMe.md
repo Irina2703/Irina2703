@@ -10,8 +10,12 @@
 
 
 # 💻 Personal Projects
-[Note Hub – Next.js • REST API](https://09-auth-eight-kappa.vercel.app/)  
+ 🔹 [Note Hub – Next.js](https://09-auth-eight-kappa.vercel.app/)  
 Developed a full-featured note-taking application with user authentication and CRUD functionality.
+
+### 🔹 [Company Portal — Developer](https://irina2703.github.io/goit-markup-hw-06-01/)
+Tech: HTML • CSS
+Created a static single-page corporate portal. Implemented responsive design for different devices, clean layout of text and interface elements, and simple, user-friendly navigation.
 
 # 👥 Team Projects 
 
@@ -23,6 +27,9 @@ Developed a full-featured e-commerce clothing platform with dynamic catalog, pro
 **Tech:** HTML • CSS • JavaScript  
 Organized and led a team to build a dynamic online bookstore. Implemented responsive design and integrated book search functionality.
 
+### 🔹 [Yacht Booking Platform — Developer](https://d-yv.github.io/project-devteam1/#our-yachts) 
+**Tech:** HTML • CSS • JavaScript
+Created a single-page yacht booking platform with interactive search, booking management, and user reviews. Implemented responsive design for both desktop and mobile devices, styled interface elements, and added basic interactivity and animations.
 
 
 # 📊 GitHub Stats:
