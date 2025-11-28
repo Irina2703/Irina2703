@@ -10,7 +10,7 @@
 
 
 # 💻 Personal Projects
- 🔹 [Note Hub – Next.js](https://09-auth-eight-kappa.vercel.app/)  
+### 🔹 [Note Hub – Next.js](https://09-auth-eight-kappa.vercel.app/)  
 Developed a full-featured note-taking application with user authentication and CRUD functionality.
 
 ### 🔹 [Company Portal — Developer](https://irina2703.github.io/goit-markup-hw-06-01/)
